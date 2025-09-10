@@ -1,1 +1,66 @@
-site_name: My Docs
+site_name: CEAL Server Resources
+site_url: https://ceal.yanwenyuan.uk
+
+# these will show up in the sidebar
+# the structure here is manual, and does not need to match folder structure
+nav:
+  - 主頁 Home: "index.md"
+  - 文言 Classical Chinese: 
+    - Beginners Guide: "cc/beginners-guide.md"  # if you do not specify a title, the first heading in the document is used
+    - Excavated Texts:
+      - Introduction: "cc/excavated/introduction.md"
+      - Chu Script:
+        - Overview: "cc/excavated/chu/index.md"
+    - Guide to Reading Cursive Chinese: "cc/cursive.md"
+  - 關於 About:
+    - "about/contribute.md"
+
+plugins:
+  - search
+  # - social  # social cards is broken until I install the right dependencies (i hate windows)
+
+theme:
+  name: material
+  icon:
+    logo: simple/beijingsubway  # to be changed
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    # - navigation.path  # might not be added yet
+    - navigation.prune
+    - nagivation.footer
+    - header.social
+  palette: 
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: green
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch Mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch Mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yanwenywan/ceal-server-resources
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/XSa5euWbvP
+
+copyright: Site by Yanwenyuan. Resources contributed by members of the CEAL server.
+
+extra_css:
+  - stylesheets/extra.css 
+  - stylesheets/fonts.css
