@@ -7,7 +7,7 @@ Contributing to this site is easy! (Relatively). This site is made using MkDocs,
 
 - Know how to write markdown. See [here](https://www.markdownguide.org/tools/mkdocs/) for a reference of the MkDocs markdown dialect.
 - Know, or be willing to learn how to write yaml.
-- Have a GitHub account and know how to navigate the site. The URL of the source can be accessed [here](https://github.com/yanwenywan/ceal-server-resources) or in the footer by way of the GitHub icon.
+- Have a GitHub account and know how to navigate the site. [Click here to go to the GitHub page for this project](https://github.com/yanwenywan/ceal-server-resources) or from the icon in the footer from any page.
     <!-- - One important thing to understand is _forking_ a repository. When you fork, you create a duplicate of my project in your account, where you are free to edit and upload files.  -->
 - Knowledge of Git and a code editor is helpful, but _not required_. You can create, upload, and edit markdown on the GitHub web interface, though you will not be able to run and preview the site yourself.
 - *(Only if you want to run the site locally)* Python 3, with the `mkdocs` and `mkdocs-material` packages. I won't go into further detail because that's not the aim of this page.
@@ -178,4 +178,20 @@ For more information, see [GitHub's official documentation](https://docs.github.
 **Please ping me (yanwenyuan) on one of the discord channels in CEAL if I don't know who you are.**
 
 Once I accept your changes, they'll be live within minutes!
+
+-----
+
+## Case Study 2: I found a pdf of this Classical Chinese-English dictionary that went out of print in 1976
+
+Upload it to Google Drive (or Yandex, or whatever else you want that allows downloads without an account, I will not accept Baiduyun), and get a public viewing link for the file.
+
+*Note:* ***Please don't upload large PDFs or other large files directly to this repository.*** *Especially if they are acquired through "roundabout" means. Not fussed about third party file host links though.*
+
+Then, navigate to the appropriate dictionary page, which should be 
+
+> 文言 Classical Chinese > Dictionaries > Chinese-English Dictionaries
+
+And add yours to the list, and commit your changes as described in Case Study 1.
+
+*(Note: if the page or parent folders are not present, please ping maxim or someone until they get round to it. This tutorial was written at a time where said page only lives in the figments of our imagination)*
 
