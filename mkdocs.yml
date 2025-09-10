@@ -21,8 +21,8 @@ plugins:
 
 theme:
   name: material
-  icon:
-    logo: simple/beijingsubway  # to be changed
+  logo: assets/ceal-logo-yin.svg  # to be changed
+  favicon: assets/ceal-logo-yin.svg
   features:
     - navigation.instant
     - navigation.instant.progress
