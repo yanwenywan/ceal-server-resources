@@ -17,6 +17,8 @@ nav:
     - Guide to Reading Cursive Chinese: "cc/cursive.md"
   - 關於 About:
     - "about/contribute.md"
+    - "about/tutorials.md"
+    - "about/useful-tips.md"
 
 plugins:
   - search
