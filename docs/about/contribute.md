@@ -16,7 +16,7 @@ Contributing to this site is easy! (Relatively). This site is made using MkDocs,
 
 - ***Keep the file sizes lean.*** Only upload markdown and image files. For any large files, such as PDF scans, csv dumps, etc, it's best to use a public link from a hosting service like drive, and just link it here. 
 - ***Try to categorise things nicely.*** Take advantage of the categories, folders, and subfolders we have.
-- That's it, really.
+- ***Make frequent commits.*** A "commit" (see [Submitting your work](#submitting-your-work)) is a checkpoint of your changes, so each single "change" you make (e.g. adding a page, editing a paragraph, adding a set of dictionaries) should be one commit. When you merge back in, you can merge multiple commits at once, so don't worry about making small, frequent checkpoints.
 
 ------
 
@@ -173,11 +173,19 @@ Now when you go to your GitHub account, and go to your repositories, you should 
 
 There should be a yellow banner saying that some branch has recent changes, with a green button to "Compare and Pull Request". Click this and make a pull request -- this is a request to add your changes to my project.
 
+If not, there should still be a banner with a button saying "Contribute", go into it and click the big "Open pull request".
+
 For more information, see [GitHub's official documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) or just asking your favourite LLM to walk you through the process.
 
 **Please ping me (yanwenyuan) on one of the discord channels in CEAL if I don't know who you are.**
 
 Once I accept your changes, they'll be live within minutes!
+
+### Wait, there have been more recent changes since my fork?
+
+Multiple people may be modifying the website at once, and your fork does not automatically sync to my main site. You should see a banner on your fork that says "This branch is X commits behind `yanwenywan/ceal-server-resources:master`" (or something to that effect)
+
+**Before you make a pull request**, you can sync the branches by clicking the "Sync fork" in the banner and following through with the GitHub UI.
 
 -----
 
