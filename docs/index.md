@@ -1,7 +1,3 @@
----
-title: CEAL Resources Site
-hero: assets/backer.png
----
 
 # CEAL Resources Site
 
