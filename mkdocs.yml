@@ -7,6 +7,7 @@ nav:
   - 主頁 Home: "index.md"
   - 文言 Classical Chinese: 
     - Beginners Guide: "cc/beginners-guide.md"  # if you do not specify a title, the first heading in the document is used
+    - Textbook Recommendations: "cc/textbook-recc.md"
     - Excavated Texts:
       - Introduction: "cc/excavated/introduction.md"
       - Chu Script:
