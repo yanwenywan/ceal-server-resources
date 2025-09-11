@@ -183,9 +183,11 @@ Once I accept your changes, they'll be live within minutes!
 
 ### Wait, there have been more recent changes since my fork?
 
-Multiple people may be modifying the website at once, and your fork does not automatically sync to my main site. You should see a banner on your fork that says "This branch is X commits behind `yanwenywan/ceal-server-resources:master`" (or something to that effect)
+Multiple people may be modifying the website at once, and your fork does not automatically sync to my main site. You should see a banner on your fork that says "This branch is \[X commits ahead of,\] X commits behind `yanwenywan/ceal-server-resources:master`" (or something to that effect)
 
-**Before you make a pull request**, you can sync the branches by clicking the "Sync fork" in the banner and following through with the GitHub UI.
+**Before you make a pull request**, you can sync the branches by clicking the "Sync fork" in the banner and following through with the GitHub UI. 
+
+***If you click discard commit, you will lose all your changes! The ONLY time you should click this, is when you are sure all the changes on your fork have been copied over and live on the main site, and you wish to make the update log match.***
 
 -----
 
