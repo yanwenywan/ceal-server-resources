@@ -1,6 +1,7 @@
 site_name: CEAL Server Resources
 site_url: https://ceal.yanwenyuan.uk
 site_author: yanwenyuan
+site_description: Resources from the Classical East Asian Languages server
 
 # these will show up in the sidebar
 # the structure here is manual, and does not need to match folder structure
