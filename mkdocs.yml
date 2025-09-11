@@ -22,6 +22,9 @@ plugins:
   - search
   - social
 
+markdown_extensions:
+  - attr_list
+
 theme:
   name: material
   custom_dir: overrides

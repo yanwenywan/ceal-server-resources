@@ -8,7 +8,7 @@ Each lesson begins with an overview of the lesson, introduces an exemplary text,
 
 A scan of the second edition is available  online on zlib.
 
-![](img/fuller1.png)
+![](img/fuller1.png){: style="height: 400px"}
 
 
 ## Kai Vogelsang's *Introduction to Classical Chinese*
