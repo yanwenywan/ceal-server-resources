@@ -18,7 +18,7 @@ nav:
 
 plugins:
   - search
-  # - social  # social cards is broken until I install the right dependencies (i hate windows)
+  - social
 
 theme:
   name: material
