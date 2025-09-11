@@ -13,7 +13,7 @@ nav:
       - Introduction: "cc/excavated/introduction.md"
       - Chu Script:
         - Overview: "cc/excavated/chu/index.md"
-    -Textbook Recommendations: "cc/textbook-reccs.md"
+    - Textbook Recommendations: "cc/textbook-reccs.md"
     - Guide to Reading Cursive Chinese: "cc/cursive.md"
   - 關於 About:
     - "about/contribute.md"
