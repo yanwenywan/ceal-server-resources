@@ -1,0 +1,223 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+{{ super() }}
+
+<style>
+
+    .md-main {
+        flex-grow: 0;
+        margin-bottom: auto
+    }
+
+    .md-main__inner {
+        display: flex;
+        height: 100%;
+    }
+
+    .md-content__inner {
+        margin-left: 2.4em !important;
+    }
+
+    .tx-container {
+        padding-top: .0rem;
+        background: 
+            url("assets/backer2.png"), 
+            linear-gradient(
+                to bottom, 
+                var(--md-primary-fg-color), 
+                #0000 30%);
+        background-blend-mode: multiply;
+        background-size: cover;
+        background-position: top right;
+        filter: drop-shadow(2px 0px 5px #000a);
+    }
+
+    .tx-hero {
+        margin: 32px 2.8rem;
+        justify-content: center;
+    }
+
+    .tx-hero h1 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        color: #fffd;
+        font-weight: 500
+    }
+
+    .tx-hero__content {
+        padding-bottom: 1rem;
+        margin: 0 auto;
+        color: #fff;
+        filter: drop-shadow(1px 1px 2px #000a);
+    }
+
+    .tx-hero__image{
+        order:1;
+        padding-bottom: 1rem;
+        margin-top: 2.5rem;
+        margin-left: auto;
+        margin-right: 1rem;
+        margin-bottom: auto;
+        min-width: 6rem;
+    }
+
+    .tx-hero__image > img {
+        width: 100%;
+        max-width: 6rem;
+        filter: drop-shadow(2px 2px 5px #000a);
+    }
+
+    .tx-hero__icon > a {
+        color: #fffd;
+    }
+
+    .tx-hero__icon > a:hover {
+        color: #dddd;
+    }
+
+
+    .top-hr {
+        margin-top: 42px;
+    }
+
+    @media screen and (max-width:30em) {
+        .tx-hero h1 {
+            font-size: 1.4rem
+        }
+    }
+
+    @media screen and (min-width:60em) {
+        .md-sidebar--secondary {
+            display: none
+        }
+
+        .tx-hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .tx-hero__content {
+            max-width: 22rem;
+            margin-top: 3.5rem;
+            margin-bottom: 3.5rem;
+            margin-left: 1.0rem;
+            margin-right: 4.0rem;
+            align-items: center;
+        }
+    }
+
+    @media screen and (min-width:76.25em) {
+        .md-sidebar--primary {
+            display: none
+        }
+
+        .top-hr {
+            width: 100%;
+            display: flex;
+            max-width: 61rem;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 0 .2rem;
+        }
+
+        .bottom-hr {
+            margin-top: 10px;
+            width: 100%;
+            display: flex;
+            max-width: 61rem;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 0 .2rem;
+        }
+
+    }
+
+    .hr {
+        border-bottom: 1px solid #eee;
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .text-center {
+        text-align: center;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 15px;
+        font-family: 'Lato', sans-serif;
+        font-size: 23px;
+        font-weight: 300;
+        padding-bottom: 10px;
+    }
+
+    .logos {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: row wrap;
+        margin: 0 auto;
+    }
+
+    .logos img {
+        flex: 1 1 auto;
+        padding: 25px;
+        max-height: 130px;
+        vertical-align: middle;
+    }
+
+    .hr-logos {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+
+    .i-am-hidden {
+        display: none;
+    }
+
+</style>
+
+<!-- Main site Entry button descriptions -->
+<section class="tx-container">
+    <div class="md-grid md-typeset">
+      <div class="tx-hero">
+        <div class="tx-hero__image">
+          <img src="assets/ceal-logo-yang.svg" draggable="false">
+        </div>
+        <div class="tx-hero__content">
+            <h1> 漢字在此 CEAL Server Resources </h1>
+            <p>向天地問好 This site is under construction</p>
+
+
+            <label class="md-icon tx-hero__icon i-am-hidden">
+                <a href="https://discord.gg/XSa5euWbvP">
+                    {% include ".icons/fontawesome/brands/discord.svg" %}
+                </a>
+            </label> 
+
+
+        </div>
+      </div>
+    </div>
+</section>
+
+
+
+{% endblock %}
+
+{% block content %}
+    {{ super() }}
+    <script>
+    (function() {
+        const parent = document.currentScript.parentElement;
+        const h1 = parent.querySelector('h1');
+        if (h1) h1.remove();
+    })();
+    </script>
+{% endblock %}
+
+{% block footer %}
+    {{ super() }}
+{% endblock %}

@@ -1,6 +1,8 @@
+---
+title: CEAL Server Resources
+template: home.html
+---
 
-# CEAL Resources Site
+Hello World
 
-> 問好諸天
-
-This site is under construction
+This site is under construction, we expect to have it ready soon.
