@@ -68,7 +68,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/XSa5euWbvP
 
-copyright: Site by Yanwenyuan. Resources contributed by members of the CEAL server.
+copyright: Site by Yanwenyuan. Hosted on behalf of and with contribution by the CEAL server.
 
 extra_css:
   - stylesheets/extra.css 
