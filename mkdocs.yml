@@ -19,8 +19,9 @@ nav:
     - "about/contribute.md"
     - "about/tutorials.md"
     - "about/useful-tips.md"
-  - 字體 Fonts:
-    - "fonts/opensource.md"
+  - 工具 Tools:
+    - "tools/fonts.md"
+    - "tools/eBook.md"
 
 plugins:
   - search
