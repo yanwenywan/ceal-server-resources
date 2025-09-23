@@ -1,0 +1,22 @@
+[data-md-color-scheme="slate"] {
+    --md-hue: 200;
+}
+
+[data-md-color-scheme="default"] {
+    --md-default-fg-color--light: #000000aa;
+    --md-default-bg-color: #ebebda;
+    --md-default-bg-color--light: #ebebdab3;
+    --md-default-bg-color--lighter: #ebebda4d;
+    --md-default-bg-color--lightest: #ebebda1f;
+    --md-code-bg-color: #ddd8bf;
+}
+
+/*This is for the logo*/
+.md-header__button.md-logo {
+    margin: 0;
+    padding: 0;
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 1.6rem;
+    width: 1.6rem;
+}
