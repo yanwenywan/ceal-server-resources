@@ -1,4 +1,4 @@
-# General stuff like theory
+# Overview of excavated texts
 ## Theory
 - [Research folder](<https://disk.yandex.ru/d/ol0YTMk-SdpKkA>)
 - [楚系簡帛文字考釋方法研究 (2023)](<https://disk.yandex.ru/i/uT8pw9iP9RjJHA>) (how to research Chu glyphs)
