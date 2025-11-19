@@ -1,5 +1,5 @@
 # General Resources
-## Fonts
+## Recommended Fonts
 
 ### Open source fonts
 [Open source](wikipedia link here) fonts are freely available, modifiable, and redistributable, and generally able to be used in all contexts including commercial ones. This is not legal advice; ensure you understand the license terms of each one.
@@ -24,3 +24,22 @@ Now you can read your favourite cc books on screen!
 
 - [zhvt-classic 中文线装书模板](https://github.com/chianjin/zhvt-classic): This is a [LaTeX](https://www.latex-project.org/about/) macro which produces a typesetting layout with these common traditional Chinese thread-bound book format: border lines, inner margins, table of contents, preface, jiazhu, and support for title pages, images, and punctuation marks.
 
+## Recommended Dictionaries
+### Yomitan Dictionaries
+### MDicts
+### Pleco
+### More minor recommendations
+### High Frequency Function Words
+### DDB app, and whatever else
+## Yomitan and Anki setup (sentence mining explanation)
+## Cool blogs/twitter accounts/youtube/bilibili channels
+  - [山村訓長但知覓](https://sanchonhunjang.blogspot.com/?m=1): 
+  - (https://web.archive.org/web/20190401171838/https://kuiwon.wordpress.com/): 
+  - [Wengu - Chinese Classics](http://wengu.tartarie.com/wg/wengu.php?l=intro): Read Chinese classics in original version and western language translations. / Lire les classiques chinois en version originale et traductions dans des langues occidentales.
+  - http://chinaknowledge.org/ also confusingly http://www.chinaknowledge.de/ is the old site thats sorta still up? use the .org since it seems more stable: An Encyclopaedia on Chinese History, Literature and Art.
+  - [sinoxenic](https://sinoxenic.wordpress.com/): dé l'Orient no l'Occident
+  - [David K. Jordan's Homepage (USCD)](https://pages.ucsd.edu/~dkjordan/chin/china.html#language): The linked pages have been prepared for use in classes relating to China and may be assigned for direct use on-line if desired.
+
+## Japanese/Kanbun specific resources for CC
+## Korean specific resources for CC
+## Vietnamese specific resources for CC
