@@ -9,7 +9,7 @@ nav:
   - 主頁 Home: "index.md"
   - 文言 Classical Chinese: 
     - Beginners Guide: "cc/beginners-guide.md"  # if you do not specify a title, the first heading in the document is used
-    - Advance Guide: "cc/advane-guide.md"
+    - Advanced Guide: "cc/advance-guide.md"
     - Excavated Texts:
       - Introduction: "cc/excavated/introduction.md"
       - General: "cc/excavated/general.md"
