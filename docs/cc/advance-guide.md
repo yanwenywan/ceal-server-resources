@@ -1,4 +1,4 @@
-# Advance Guide
+# Advanced Guide
 
 ## Cursive Guide
 ### Cursive Dictionaries
