@@ -11,8 +11,7 @@ nav:
     - Beginners Guide: "cc/beginners-guide.md"  # if you do not specify a title, the first heading in the document is used
     - Advanced Guide: "cc/advance-guide.md"
     - Excavated Texts:
-      - Introduction: "cc/excavated/introduction.md"
-      - General: "cc/excavated/general.md"
+      - Overview: "cc/excavated/overview.md"
       - Chu Script:
         - Overview: "cc/excavated/chu/index.md"
     - Textbook Recommendations: "cc/textbook-reccs.md"
