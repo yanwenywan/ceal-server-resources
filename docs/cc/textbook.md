@@ -1,3 +1,5 @@
+# Textbooks
+
 ## Michael A. Fuller's *An Introduction to Literary Chinese*
 A new second edition was published in 2024.
 Each lesson begins with an overview of the lesson, introduces an exemplary text, and provides a glossary, notes, and practice exercises. 
@@ -15,6 +17,9 @@ A scan of the second edition is available  online on zlib.
 
 Published in 2021.
 Each lesson focuses on teaching a certain aspect of Classical Chinese grammar. This book has a very robust of classifification of verbs. Great book to use as a reference as well.
+
+![Vogelsang book](https://global.oup.com/academic/covers/pop-up/9780198834984){: style="max-height: 400px"}
+
 #### Positives:
 
 - Gives clear and detailed explanations on Classical Chinese grammar and usage of specific words by breaking sentences down into the smallest units possible.
@@ -33,3 +38,12 @@ Each lesson focuses on teaching a certain aspect of Classical Chinese grammar. T
 - [Purchase through Oxford University Press](https://global.oup.com/academic/product/introduction-to-classical-chinese-9780198834984?cc=tw&lang=en&)
 
 The PDF is also available on zlib or anna's archive
+
+## Literary Chinese by the Inductive Method
+
+By Creel, Chang, and Rudolph
+
+- [Vol 1 (pdf)](https://drive.google.com/file/d/1QrIUht0XgE191-kj5aocD454ImkNuvD3/view?usp=sharing)
+- [Vol 2 (pdf)](https://drive.google.com/file/d/10DF5DFFOBpRfxx3WxMdEDyIcyl4HL-Hs/view?usp=sharing)
+- [Vol 3 (pdf)](https://drive.google.com/file/d/1_Xg32Nh0igBj6upJIqCXmokRYt8lwTYU/view?usp=sharing)
+

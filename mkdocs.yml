@@ -7,17 +7,33 @@ site_description: Resources from the Classical East Asian Languages server
 # the structure here is manual, and does not need to match folder structure
 nav:
   - 主頁 Home: "index.md"
-  - 文言 Classical Chinese: 
+  - 文字 Characters:
+    - "chars/overview.md"
+    - "chars/han.md"
+    - "chars/fonts.md"
+    - "chars/dictionaries.md"
+    - Excavated Texts:
+      - Overview: "chars/excavated/overview.md"
+  - 文言 Classical Chinese:
+    - "cc/general-resources.md"
     - Beginners Guide: "cc/beginners-guide.md"  # if you do not specify a title, the first heading in the document is used
     - Advanced Guide: "cc/advance-guide.md"
-    - Excavated Texts:
-      - Overview: "cc/excavated/overview.md"
-      - Chu Script:
-        - Overview: "cc/excavated/chu/index.md"
-    - Textbook Recommendations: "cc/textbook-reccs.md"
-    - Guide to Reading Cursive Chinese: "cc/cursive.md"
-    - General Resources: "cc/general-resources.md"
+    - "cc/textbook.md"
+    - "cc/classics.md"
+    - "cc/writing.md" 
+    - "cc/oc.md" 
+    - "cc/china.md"
+      # - Chu Script:
+        # - Overview: "cc/excavated/chu/index.md"
+    # - Guide to Reading Cursive Chinese: "cc/cursive.md"
+  - 日文 Classical Japanese:
+    - "cj/overview.md"
+  - 韓文 Classical Korean:
+    - "ck/overview.md" 
+  - 萬言 Other Languages:
+    - "other/overview.md" 
   - 關於 About:
+    - "about/overview.md"
     - "about/contribute.md"
     - "about/tutorials.md"
     - "about/useful-tips.md"
@@ -45,9 +61,9 @@ theme:
     - navigation.prune
     - nagivation.footer
     - header.social
-  palette: 
+  palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       primary: deep purple
       accent: red
       toggle:
@@ -73,5 +89,5 @@ extra:
 copyright: Site by Yanwenyuan. Hosted on behalf of and with contribution by the CEAL server.
 
 extra_css:
-  - stylesheets/extra.css 
+  - stylesheets/extra.css
   - stylesheets/fonts.css

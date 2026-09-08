@@ -12,4 +12,6 @@
 
 ## Anki Decks
 
+- [Classical/Literary Chinese through SanBaiQian | 漢文三百千](https://ankiweb.net/shared/info/86212078)
+
 ## Recommended YouTube Courses
