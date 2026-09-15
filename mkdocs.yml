@@ -19,6 +19,7 @@ nav:
     - Beginners Guide: "cc/beginners-guide.md"  # if you do not specify a title, the first heading in the document is used
     - Advanced Guide: "cc/advance-guide.md"
     - "cc/textbook.md"
+    - "cc/dictionaries.md"
     - "cc/classics.md"
     - "cc/writing.md" 
     - "cc/oc.md" 
